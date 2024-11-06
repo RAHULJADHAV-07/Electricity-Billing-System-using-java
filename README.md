@@ -8,6 +8,8 @@ This **Online Electricity Billing System** is a Java-based application developed
 - **Admin Control**: Manage customer records, view registrations, and generate reports.
 - **User-Friendly Interface**: Simple and intuitive navigation for both customers and admins.
 
+
+All the required SQL Query mentioned in Database.txt
 #### Setup Instructions:
 1. **IDE**: Use **NetBeans IDE** for easy setup and management.
 2. **Add Libraries**:
