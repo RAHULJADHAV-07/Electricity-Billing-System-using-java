@@ -14,6 +14,7 @@ This **Online Electricity Billing System** is a Java-based application developed
    - Add the following JAR files to your NetBeans project library:
      1. **mysql-connector**: For database connectivity with MySQL.
      2. **rs2xml**: For displaying database tables in the application.
+![image](https://github.com/user-attachments/assets/51e4a1bc-449c-4e47-8f85-5aedcbdbb12f)
 
 This project provides a streamlined billing experience and enables efficient management of electricity billing records.
 ![image](https://github.com/user-attachments/assets/d017284e-a0e9-439c-9d96-15d62cd0422a)
